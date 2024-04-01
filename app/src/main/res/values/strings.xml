@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Android1HomeWork7(group16)</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="decrement">-</string>
+    <string name="zero">0</string>
+    <string name="increment">+</string>
+    <string name="name">Название</string>
+    <string name="cars">cars</string>
+    <string name="engine">Двигатель</string>
+    <string name="wheels">Колеса</string>
+</resources>
